@@ -46,4 +46,6 @@
     <string name="accessibility_quick_settings_sync_on">Sincronizzazione attivata.</string>
     <string name="accessibility_quick_settings_sync_changed_off">Sincronizzazione spenta.</string>
     <string name="accessibility_quick_settings_sync_changed_on">Sincronizzazione attivata.</string>
+    <string name="screenrecord_stopdot_label">Mostra stop intermittente.\nPremi a lungo per spostarlo</string>
+    <string name="screenrecord_lowquality_label">Bassa qualità e file più piccolo</string>
 </resources>
